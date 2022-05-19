@@ -1,6 +1,6 @@
 # **A guide to cheating in Drift Boss, by Mateo**
 ## How to cheat in math playground:
-### Copy the following thing in to a note app or write it down with an eraseable pen or pencil to get started:
+### Copy the following code into a note app or write it down with an eraseable pen or pencil to get started:
 
 `{"sound":0.7,"music":0.3,"score":*%highscore%*,"hasShownTutorial":true,"collectedCoin":%coins%,"cars":[%allcars%],"currentCar":%carbeingused%,"currentTip":0,"booster1":%booster1%,"booster2":%booster2%,"booster3":%booster3%,"ko":0,"hasShownBoosterTutorial":true}`
 
